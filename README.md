@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuperSayianGodCode
-- 👀 I’m interested in Coding || ML || IOT || Photography || Travelling ||
+- 👀 I’m interested in Coding || ML || IOT || Photography || Travelling || Cricket
 
 <!---
 SuperSayianGodCode/SuperSayianGodCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
